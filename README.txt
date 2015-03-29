@@ -3,4 +3,4 @@
 #  the branching chapter... and, I suspect, many of the 
 #  later chapters as well.
 #
-#  So, I create this repo on my Github account sole for that purpose.
+#  So, I created this repo on my Github account solely for that purpose.
